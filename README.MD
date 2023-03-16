@@ -2,7 +2,7 @@
 
 React Native mobile app for retrieving data from 42 Intra API
 
-![](https://github.com/https://github.com/noreederek/swifty-companion/blob/main/demo.gif)
+![](https://github.com/noreederek/swifty-companion/blob/main/demo.gif)
 
 ## Installation
 
